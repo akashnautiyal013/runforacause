@@ -1,0 +1,4 @@
+
+          module.exports = require("/Users/akash/Desktop/runforacause/node_modules/react-native/packager/react-packager/src/JSTransformer/worker.js");
+          require("/Users/akash/Desktop/runforacause/node_modules/react-native/packager/transformer.js");
+          
